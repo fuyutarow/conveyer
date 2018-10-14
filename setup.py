@@ -11,7 +11,7 @@ setup(
     download_url='',
     install_requires=['hyperopt>=0.1',
                       'networkx==1.11',
-                      'numpy==1.13.3',
+                      'numpy>=1.15',
                       'pandas>=0.21.0',
                       'scikit-learn>=0.19.1',
                       'xgboost>=0.7'],
